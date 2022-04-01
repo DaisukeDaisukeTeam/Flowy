@@ -1,7 +1,7 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/FlowyProject/Flowy
 build-by-default: true
 branches:
-- master
+- pm4
 projects:
   Flowy:
     path: flowy/
